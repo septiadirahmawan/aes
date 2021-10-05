@@ -1,9 +1,11 @@
 <?php
+namespace aes;
+
 /**
    * aes-crypt -- A Simple AES Crypt
    * @version 1.0
    * @author Septiadi Rahmawan <septiadirahmawan@gmail.com>
-   * @link https://github.com/septiadirahmawan/aes-crypt/
+   * @link https://github.com/septiadirahmawan/aes/
    * @copyright Copyright 2021 Septiadi Rahmawan
    * @license http://www.opensource.org/licenses/mit-license.php MIT License
    * @package aes-crypt
