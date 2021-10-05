@@ -1,6 +1,6 @@
 {
     "name": "septiadi/aes-crypt",
-    "description": "Encrypt/decrypt data in PHP to a format compatible with AES_ENCRYPT & AES_DECRYPT functions.",
+    "description": "Package yang berisi encrypt, decrypt, JSON, list",
     "require": {
         "php": ">=7.4"
     },
