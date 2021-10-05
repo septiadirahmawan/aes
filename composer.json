@@ -4,7 +4,7 @@
     "require": {
         "php": ">=7.4"
     },
-    "keywords": ["aes", "encrypt", "decrypt"],
+    "keywords": ["AES", "encrypt", "decrypt"],
     "type": "library",
     "license": "WTFPL",
     "authors": [
@@ -15,10 +15,10 @@
     ],
     "autoload": {
         "psr-4": {
-            "Septiadirahmawan\\": "src/Septiadirahmawan"
+            "Septiadirahmawan\\": "src"
         },
         "files": [
-            "src/aes.php"
+            "src/Aes.php"
         ]
     },
     "minimum-stability": "stable"
