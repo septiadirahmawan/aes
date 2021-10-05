@@ -1,5 +1,4 @@
-<?php
-namespace Septiadirahmawan;
+<?php namespace Septiadirahmawan;
 
 /**
    * aes-crypt -- A Simple AES Crypt
@@ -11,8 +10,8 @@ namespace Septiadirahmawan;
    * @package aes-crypt
    */
 
-if (!class_exists('Scrypt')) {
-    class Scrypt {
+if (!class_exists('Aes')) {
+    class Aes {
         const ENCRYPT_METHOD = "AES-256-CBC";
         public static function encrypt($string, $secret_key) {
             $permitted_chars    = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
