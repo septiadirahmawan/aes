@@ -1,7 +1,7 @@
 <?php
 /**
    * aes-crypt -- A Simple AES Crypt
-   * @version 0.1
+   * @version 1.0
    * @author Septiadi Rahmawan <septiadirahmawan@gmail.com>
    * @link https://github.com/septiadirahmawan/aes-crypt/
    * @copyright Copyright 2021 Septiadi Rahmawan
