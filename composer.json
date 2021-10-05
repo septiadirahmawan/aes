@@ -1,5 +1,5 @@
 {
-    "name": "septiadirahmawan/aes-crypt",
+    "name": "septiadi/aes-crypt",
     "description": "Encrypt/decrypt data in PHP to a format compatible with AES_ENCRYPT & AES_DECRYPT functions.",
     "require": {
         "php": ">=7.4"
@@ -15,10 +15,10 @@
     ],
     "autoload": {
         "psr-4": {
-            "Septiadirahmawan\\": "src/septiadirahmawan"
+            "Septiadi\\": "src/septiadi"
         },
         "files": [
-            "src/aes.php"
+            "src/Aes.php"
         ]
     },
     "minimum-stability": "stable"

@@ -1,4 +1,6 @@
-<?php namespace Septiadirahmawan;
+<?php 
+
+namespace Septiadi;
 
 /**
    * aes-crypt -- A Simple AES Crypt

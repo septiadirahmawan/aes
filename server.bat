@@ -1,1 +1,1 @@
-php -S localhost:2000 -t example/
+php -S localhost:2000
