@@ -16,7 +16,7 @@
     "autoload": {
         "psr-4": {
             "Septiadirahmawan\\": "src"
-        }
+        } 
     },
     "minimum-stability": "stable"
 }
