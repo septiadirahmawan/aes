@@ -1,0 +1,7 @@
+{
+    "name": "septiadirahmawan/aes-crypt",
+    "description": "Encrypt/decrypt data in PHP to a format compatible with AES_ENCRYPT & AES_DECRYPT functions.",
+    "require": {
+        "php": ">=7.4"
+    }
+}
