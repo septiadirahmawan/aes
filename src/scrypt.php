@@ -1,6 +1,6 @@
 <?php
 
-use septiadi\aes\Scrypt;
+use Septiadirahmawan\Scrypt;
 
 if (!function_exists('encrypt')) {
     function encrypt($string, $key) {

@@ -1,5 +1,5 @@
 <?php
-namespace aes;
+namespace Septiadirahmawan;
 
 /**
    * aes-crypt -- A Simple AES Crypt
