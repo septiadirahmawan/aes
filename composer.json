@@ -15,8 +15,11 @@
     ],
     "autoload": {
         "psr-4": {
-            "Septiadirahmawan\\": "src"
-        } 
+            "Septiadirahmawan\\": "src/septiadirahmawan"
+        },
+        "files": [
+            "src/aes.php"
+        ]
     },
     "minimum-stability": "stable"
 }
