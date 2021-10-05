@@ -3,5 +3,23 @@
     "description": "Encrypt/decrypt data in PHP to a format compatible with AES_ENCRYPT & AES_DECRYPT functions.",
     "require": {
         "php": ">=7.4"
-    }
+    },
+    "keywords": ["aes", "encrypt", "decrypt"],
+    "type": "library",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Septiadi Rahmawan",
+            "email": "septiadirahmawan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Septiadirahmawan\\": "src/Septiadirahmawan"
+        },
+        "files": [
+            "src/aes.php"
+        ]
+    },
+    "minimum-stability": "stable"
 }
