@@ -15,10 +15,10 @@
     ],
     "autoload": {
         "psr-4": {
-            "Septiadi\\": "src/septiadi"
+            "Septiadi\\": "src/"
         },
         "files": [
-            "src/Aes.php"
+            "src/Crypt.php"
         ]
     },
     "minimum-stability": "stable"
